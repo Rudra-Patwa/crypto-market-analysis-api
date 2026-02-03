@@ -160,5 +160,7 @@ This project simulates how data scientists:
 ---
 
 ## 🔗 Kaggle Notebook
-[View Project on Kaggle](<insert-kaggle-link-here>)
+# 📈 [Crypto Market Analysis using Public APIs](https://www.kaggle.com/code/rudrapatwa233/ipl-2022-data-analysis-capstone-project)
+
+
 
